@@ -1,0 +1,9 @@
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\bin\Debug\Business.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\bin\Debug\Business.pdb
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\bin\Debug\Database.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\bin\Debug\Database.pdb
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\obj\Debug\Business.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Business\obj\Debug\Business.pdb

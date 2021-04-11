@@ -1,0 +1,6 @@
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Database\bin\Debug\Database.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Database\bin\Debug\Database.pdb
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Database\obj\Debug\Database.csprojAssemblyReference.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Database\obj\Debug\Database.dll
+C:\Users\Marcos Vinicius\Documents\Unifaat\Programação Orientada a Objetos\Aula4_Persistente\Database\obj\Debug\Database.pdb
